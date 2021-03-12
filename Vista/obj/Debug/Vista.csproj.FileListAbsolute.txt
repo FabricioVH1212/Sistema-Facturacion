@@ -1,0 +1,108 @@
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe.config
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.pdb
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Menu.resources
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.exe
+C:\Users\Public\Documents\Proyecto programado\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.pdb
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe.config
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.pdb
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Menu.resources
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.exe
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.pdb
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.ingresar.resources
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.facturacion2.resources
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Yerson Serrano\Downloads\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.sistema_inventario.resources
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.ingresar_fac2.resources
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.sistema_inventario.resources
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.facturacion2.resources
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Menu.resources
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.exe
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.pdb
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe.config
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.pdb
+C:\Users\Yerson Serrano\Desktop\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CopyComplete
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe.config
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.pdb
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.sistema_inventario.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.facturacion2.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Menu.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CopyComplete
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.exe
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.pdb
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Ingresar_Factura.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Ingresar_Cliente.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Anular_Factura.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe.config
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.pdb
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Anular_Factura.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Ingresar_Factura.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Ingresar_Cliente.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.sistema_inventario.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.facturacion2.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Menu.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.exe
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.pdb
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.MenuInventario.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.MenuInventario.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Agregar_Articulo.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Hacer_Pedido.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Ingresar_Proveedor.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Bodega.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Agregar_Articulo.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Bodega.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Hacer_Pedido.resources
+C:\Users\Yerson Serrano\Desktop\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Ingresar_Proveedor.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.DescargaInventario.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Tienda.resources
+E:\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Reportes.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe.config
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.exe
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\bin\Debug\Vista.pdb
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Agregar_Articulo.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Anular_Factura.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Bodega.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.DescargaInventario.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Hacer_Pedido.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Ingresar_Proveedor.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.MenuInventario.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Ingresar_Factura.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Ingresar_Cliente.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Reportes.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.sistema_inventario.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.facturacion2.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Menu.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.Tienda.resources
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.exe
+C:\Users\mario\OneDrive\Ingenieria informática\5 Cuatrimestre\Programación 4\Proyecto programado\4, sistema de facturacion\Sistema de Facturación e Inventarios\Vista\obj\Debug\Vista.pdb

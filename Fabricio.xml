@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Factura>
+  <Universidad FLorencio del Castillo>
+    <NúmeroDeFactura>12</NúmeroDeFactura>
+    <NúmeroDeCedúla>702850381</NúmeroDeCedúla>
+    <NombreDelCliente>Fabricio Vindas Hernandez</NombreDelCliente>
+    <Fecha>22/7/2020 00:00:00</Fecha>
+    <TipoDeCambio>Colones</TipoDeCambio>
+    <Subtotal>42000</Subtotal>
+    <Impuesto>0,13</Impuesto>
+    <Total>47460</Total>
+  </Universidad FLorencio del Castillo>
+</Factura>
